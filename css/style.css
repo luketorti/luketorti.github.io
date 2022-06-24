@@ -229,22 +229,22 @@ header {
     list-style: none;
     display: flex;
     justify-content: center;
-    padding: 0;
-    transform: translateX(-1.5%);
+    padding: .2em 0;
     font-size: 2.8rem;
 }
 
 .social-list__item {
-    margin: 0 .4em;
+    margin: 0 .6em;
 
 }
 
 .social-list__link {
-    padding: .5em;
+    padding: 0 .5em;
+
 }
 
 .copyright-text {
-    transform: translateX(-1.5%);
+    justify-content: center;
     font-size: 0.9rem;
     font-family: var(--ff-secondary)
 }
